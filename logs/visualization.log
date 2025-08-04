@@ -1,0 +1,56 @@
+2025-08-04 10:11:56,195 - INFO - Starting visualization pipeline
+2025-08-04 10:11:56,195 - INFO - Loading TF-IDF matrix
+2025-08-04 10:11:56,211 - INFO - \U0001f9ea Running PCA on TF-IDF
+2025-08-04 10:11:57,155 - INFO - Saved TF-IDF plot to visualizations/tfidf_pca_plot.png
+2025-08-04 10:12:05,926 - INFO - Loading sentence embeddings
+2025-08-04 10:12:05,983 - INFO - Running PCA on embeddings
+2025-08-04 10:12:06,280 - INFO - Saved embeddings plot to visualizations/embedding_pca_plot.png
+2025-08-04 10:12:10,337 - INFO -  Visualization complete
+2025-08-04 10:40:21,040 - INFO - Starting visualization pipeline
+2025-08-04 10:40:21,040 - INFO - Loading TF-IDF matrix
+2025-08-04 10:40:21,040 - INFO - \U0001f9ea Running PCA on TF-IDF
+2025-08-04 10:40:21,327 - INFO - Saved TF-IDF plot to visualizations/tfidf_pca_plot.png
+2025-08-04 10:40:21,327 - INFO - Loading sentence embeddings
+2025-08-04 10:40:21,374 - INFO - Running PCA on embeddings
+2025-08-04 10:40:21,644 - INFO - Saved embeddings plot to visualizations/embedding_pca_plot.png
+2025-08-04 10:40:21,644 - INFO - Generating word cloud
+2025-08-04 10:40:21,644 - ERROR - Word cloud generation failed: [Errno 2] No such file or directory: 'tweets_cleaned.parquet'
+2025-08-04 10:40:21,644 - INFO - Plotting hashtag frequencies
+2025-08-04 10:40:21,644 - ERROR - Hashtag bar chart failed: [Errno 2] No such file or directory: 'tweets_cleaned.parquet'
+2025-08-04 10:40:21,644 - INFO -  Visualization complete
+2025-08-04 10:42:29,443 - INFO - Starting visualization pipeline
+2025-08-04 10:42:29,443 - INFO - Loading TF-IDF matrix
+2025-08-04 10:42:29,447 - INFO - \U0001f9ea Running PCA on TF-IDF
+2025-08-04 10:42:29,725 - INFO - Saved TF-IDF plot to visualizations/tfidf_pca_plot.png
+2025-08-04 10:42:29,726 - INFO - Loading sentence embeddings
+2025-08-04 10:42:29,767 - INFO - Running PCA on embeddings
+2025-08-04 10:42:30,010 - INFO - Saved embeddings plot to visualizations/embedding_pca_plot.png
+2025-08-04 10:42:30,021 - INFO - Generating word cloud
+2025-08-04 10:42:30,021 - ERROR - Word cloud generation failed: [Errno 2] No such file or directory: 'tweets_cleaned.parquet'
+2025-08-04 10:42:30,021 - INFO - Plotting hashtag frequencies
+2025-08-04 10:42:30,021 - ERROR - Hashtag bar chart failed: [Errno 2] No such file or directory: 'tweets_cleaned.parquet'
+2025-08-04 10:42:30,021 - INFO -  Visualization complete
+2025-08-04 10:49:50,929 - INFO - Starting visualization pipeline
+2025-08-04 10:49:50,929 - INFO - Loading TF-IDF matrix
+2025-08-04 10:49:50,945 - INFO - \U0001f9ea Running PCA on TF-IDF
+2025-08-04 10:49:51,200 - INFO - Saved TF-IDF plot to visualizations/tfidf_pca_plot.png
+2025-08-04 10:49:51,200 - INFO - Loading sentence embeddings
+2025-08-04 10:49:51,248 - INFO - Running PCA on embeddings
+2025-08-04 10:49:51,519 - INFO - Saved embeddings plot to visualizations/embedding_pca_plot.png
+2025-08-04 10:49:51,519 - INFO - Generating word cloud
+2025-08-04 10:49:51,519 - ERROR - Word cloud generation failed: [Errno 2] No such file or directory: 'tweets_cleaned.parquet'
+2025-08-04 10:49:51,519 - INFO - Plotting hashtag frequencies
+2025-08-04 10:49:51,519 - ERROR - Hashtag bar chart failed: [Errno 2] No such file or directory: 'tweets_cleaned.parquet'
+2025-08-04 10:49:51,519 - INFO -  Visualization complete
+2025-08-04 10:50:17,745 - INFO - Starting visualization pipeline
+2025-08-04 10:50:17,745 - INFO - Loading TF-IDF matrix
+2025-08-04 10:50:17,745 - INFO - \U0001f9ea Running PCA on TF-IDF
+2025-08-04 10:50:18,048 - INFO - Saved TF-IDF plot to visualizations/tfidf_pca_plot.png
+2025-08-04 10:50:18,048 - INFO - Loading sentence embeddings
+2025-08-04 10:50:18,096 - INFO - Running PCA on embeddings
+2025-08-04 10:50:24,224 - INFO - Saved embeddings plot to visualizations/embedding_pca_plot.png
+2025-08-04 10:50:24,224 - INFO - Generating word cloud
+2025-08-04 10:50:24,224 - ERROR - Word cloud generation failed: [Errno 2] No such file or directory: 'tweets_cleaned.parquet'
+2025-08-04 10:50:24,224 - INFO - Plotting hashtag frequencies
+2025-08-04 10:50:24,224 - ERROR - Hashtag bar chart failed: [Errno 2] No such file or directory: 'tweets_cleaned.parquet'
+2025-08-04 10:50:24,224 - INFO -  Visualization complete

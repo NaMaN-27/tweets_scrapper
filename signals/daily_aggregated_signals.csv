@@ -1,0 +1,4 @@
+date,tweet_volume,buy_pct,sell_pct,neutral_pct,avg_keyword_score,composite_score,signal,confidence_pct
+2025-08-02,76,0.224,0.026,0.75,0.2,0.154,sell,15.4
+2025-08-03,280,0.321,0.075,0.604,0.21,0.285,sell,28.5
+2025-08-04,13,0.154,0.0,0.846,0.23,0.096,sell,9.6

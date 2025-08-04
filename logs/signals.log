@@ -1,0 +1,10 @@
+2025-08-04 10:13:11,316 - INFO - Loading: features/tweets_with_keywordscore.parquet
+2025-08-04 10:13:11,371 - INFO - Classifying sentiment for 369 tweets
+2025-08-04 10:13:11,385 - INFO - Aggregating by date
+2025-08-04 10:13:11,392 - INFO - Saving aggregated output to signals/daily_aggregated_signals.csv
+2025-08-04 10:13:11,399 - INFO - Signal aggregation complete.
+2025-08-04 10:47:57,483 - INFO - Loading: features/tweets_with_keywordscore.parquet
+2025-08-04 10:47:57,542 - INFO - Classifying sentiment for 369 tweets
+2025-08-04 10:47:57,571 - INFO - Aggregating by date
+2025-08-04 10:47:57,585 - INFO - Saving aggregated output to signals/daily_aggregated_signals.csv
+2025-08-04 10:47:57,589 - INFO - Signal aggregation complete.

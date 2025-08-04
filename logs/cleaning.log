@@ -1,0 +1,6 @@
+2025-08-04 10:06:21,261 - INFO - Loading: data/raw/tweets.parquet
+2025-08-04 10:06:21,755 - INFO - Cleaning 381 rows...
+2025-08-04 10:06:21,755 - INFO - Cleaning DataFrame...
+2025-08-04 10:06:25,855 - INFO - Cleaned from 381 to 369 rows.
+2025-08-04 10:06:25,855 - INFO - Saving cleaned data to data/cleaned/tweets_cleaned.parquet
+2025-08-04 10:06:25,877 - INFO - Cleaning completed.

@@ -1,0 +1,26 @@
+2025-08-04 10:07:13,427 - INFO - Starting feature engineering 
+2025-08-04 10:07:13,427 - INFO - Loading cleaned data from data/cleaned/tweets_cleaned.parquet
+2025-08-04 10:07:13,474 - INFO - Generating TF-IDF vectors...
+2025-08-04 10:07:13,506 - INFO - Saved sparse matrix to features/tfidf_vectors.npz
+2025-08-04 10:07:13,506 - INFO - Saved TF-IDF vectorizer to features/tfidf_vectorizer.pkl
+2025-08-04 10:07:13,506 - INFO - TF-IDF shape: (369, 1000)
+2025-08-04 10:07:13,506 - INFO - Generating sentence embeddings
+2025-08-04 10:07:13,506 - INFO - Use pytorch device_name: cpu
+2025-08-04 10:07:13,506 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-08-04 10:07:26,528 - INFO - Sentence embeddings saved to embeddings/tweets_with_embeddings.parquet
+2025-08-04 10:07:26,528 - INFO - Generating custom keyword signals...
+2025-08-04 10:07:26,567 - INFO - Saved keyword signals to features/tweets_with_keywordscore.parquet
+2025-08-04 10:07:26,567 - INFO - Feature engineering complete
+2025-08-04 10:46:56,006 - INFO - Starting feature engineering 
+2025-08-04 10:46:56,006 - INFO - Loading cleaned data from data/cleaned/tweets_cleaned.parquet
+2025-08-04 10:46:56,173 - INFO - Generating TF-IDF vectors...
+2025-08-04 10:46:56,214 - INFO - Saved sparse matrix to features/tfidf_vectors.npz
+2025-08-04 10:46:56,217 - INFO - Saved TF-IDF vectorizer to features/tfidf_vectorizer.pkl
+2025-08-04 10:46:56,217 - INFO - TF-IDF shape: (369, 1000)
+2025-08-04 10:46:56,217 - INFO - Generating sentence embeddings
+2025-08-04 10:46:56,217 - INFO - Use pytorch device_name: cpu
+2025-08-04 10:46:56,217 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-08-04 10:47:10,158 - INFO - Sentence embeddings saved to embeddings/tweets_with_embeddings.parquet
+2025-08-04 10:47:10,158 - INFO - Generating custom keyword signals...
+2025-08-04 10:47:10,215 - INFO - Saved keyword signals to features/tweets_with_keywordscore.parquet
+2025-08-04 10:47:10,215 - INFO - Feature engineering complete
