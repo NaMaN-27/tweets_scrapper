@@ -16,7 +16,7 @@ if os.path.exists(raw_path):
     #Run Cleaner 
     if st.sidebar.button("Run Cleaning"):
         with st.spinner("Cleaning and normalizing tweets..."):
-            subprocess.run(["python", "cleaning/clean_tweets.py", raw_path])
+            subprocess.run(["python", "clean_tweets.py", raw_path])
         st.success("Tweets cleaned and saved to 'tweets_cleaned.parquet'")
 
     # Visualize 
