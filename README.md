@@ -20,6 +20,7 @@ This project collects, cleans, analyzes, and visualizes Twitter data (with a foc
 ├── signals.py
 ├── visualize.py
 ├── twitter_login.py
+├── scraper.py
 ├── app.py               # Streamlit interface
 ├── requirements.txt
 └── README.md
@@ -70,7 +71,7 @@ To genrate this json run twitter_login.py and login to twitter account
 
 # 3. Run the scraper (optional step)
 this can be also automated using a scheduled job which will trigger this every morning before market opens 
-python scraper/scrape_tweets.py
+python scraper.py
 
 # 4. Launch Streamlit dashboard
 streamlit run app.py
