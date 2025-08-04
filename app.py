@@ -30,7 +30,7 @@ if os.path.exists(raw_path):
     if st.sidebar.button("Generate Features"):
         with st.spinner("Running TF-IDF, embeddings, and custom signals..."):
             subprocess.run(["python", "feature_eigineering.py"])
-        st.success("✅ Features generated.")
+        st.success(" Features generated.")
 
     #  Signal Aggregation 
     if st.sidebar.button("Aggregate Signals"):
